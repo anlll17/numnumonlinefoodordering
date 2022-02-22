@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>236114211957-osuqki219prkpgfcq7v8958262qkhirl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.236114211957-osuqki219prkpgfcq7v8958262qkhirl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMSOPvTWy7Jgd26EKMaJDmW66SQxqAo0U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>236114211957</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.santosenoque.untitled</string>
+	<key>PROJECT_ID</key>
+	<string>numnum1-97173</string>
+	<key>STORAGE_BUCKET</key>
+	<string>numnum1-97173.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:236114211957:ios:c6389edbec5d3e7541743c</string>
+	<key>DATABASE_URL</key>
+	<string>https://numnum1-97173-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

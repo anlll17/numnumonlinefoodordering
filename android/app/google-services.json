@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "236114211957",
+    "firebase_url": "https://numnum1-97173-default-rtdb.firebaseio.com",
+    "project_id": "numnum1-97173",
+    "storage_bucket": "numnum1-97173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236114211957:android:6e6bb5dcba3fe05a41743c",
+        "android_client_info": {
+          "package_name": "com.gd.numnum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236114211957-0lohppv9cmiqclik98bb40v8vpse5vam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIJdklzWOuLabj-VBbcyRGuX978SQ-9Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236114211957-0lohppv9cmiqclik98bb40v8vpse5vam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236114211957-37mre7a5d9fae9j1f7r9vhullphm8cnk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.numnumonline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236114211957:android:409719c3d9d2670241743c",
+        "android_client_info": {
+          "package_name": "com.santosenoque.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236114211957-0lohppv9cmiqclik98bb40v8vpse5vam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIJdklzWOuLabj-VBbcyRGuX978SQ-9Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236114211957-0lohppv9cmiqclik98bb40v8vpse5vam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236114211957-37mre7a5d9fae9j1f7r9vhullphm8cnk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.numnumonline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
